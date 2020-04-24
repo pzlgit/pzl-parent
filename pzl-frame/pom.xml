@@ -207,6 +207,12 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- JWT -->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
+        </dependency>
+
         <!--xml-->
         <dependency>
             <groupId>org.apache.poi</groupId>
