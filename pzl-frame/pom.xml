@@ -22,6 +22,13 @@
 
     <dependencies>
 
+        <!--common 依赖-->
+        <dependency>
+            <groupId>com.pzl.program</groupId>
+            <artifactId>pzl-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
         <!--springboot 场景启动器-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -228,6 +235,7 @@
 
     <build>
         <plugins>
+            <!--maven打包插件-->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
