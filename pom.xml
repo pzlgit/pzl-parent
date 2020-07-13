@@ -15,6 +15,7 @@
         <module>pzl-frame</module>
         <module>pzl-common</module>
         <module>pzl-web</module>
+        <module>pzl_hadoop</module>
     </modules>
 
     <!--springboot父工程-->
