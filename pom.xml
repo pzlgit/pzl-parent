@@ -131,7 +131,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>25.1-jre</version>
+                <version>29.0-jre</version>
             </dependency>
 
             <!--swagger,版本不同可能会导致界面展示不同-->
